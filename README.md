@@ -48,7 +48,7 @@ This web app takes in user input from a form and returns a predicted math score 
 
 ## 🌐 Live Demo
 
-👉 **Live App**: [Math Score Predictor on Render](#)  
+👉 **Live App**: [Math Score Predictor on Render](https://mathscoreprediction.onrender.com/predictdata)  
 ⚠️ *Note: The app may take a few seconds to load due to Render's free tier cold start time.*
 
 ---
